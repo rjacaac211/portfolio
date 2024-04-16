@@ -1,7 +1,7 @@
 # Computer Science Student
 
 ## Education
-BS Computer Science | La Salle Univerty (Aug 2021 - Present)
+BS Computer Science | La Salle University (Aug 2021 - Present)
 
 ## Projects
 ### **Tech Trend Analysis**
