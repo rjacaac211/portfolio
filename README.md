@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-BS Computer Science -- La Salle Univerty
+BS Computer Science | La Salle Univerty (Aug 2021 - Present)
 
 ### Projects
 Tech Trend Analysis
