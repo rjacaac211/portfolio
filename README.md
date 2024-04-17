@@ -21,5 +21,5 @@ BS Computer Science | La Salle University (Aug 2021 - Present)
 - Emphasizes understanding dataset structure and defining clear analytical objectives.
 - Provides valuable insights into Chicago's characteristics and issues using SQL analysis.
 
-### **SpaceX Falcon 9 Landing Prediction to Determine Launch Cost**
+### **SpaceX Falcon 9 Landing Prediction**
 _(Ongoing)_
