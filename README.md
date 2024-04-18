@@ -4,7 +4,7 @@
 BS Computer Science | La Salle University (Aug 2021 - Present)
 
 ## Projects
-### **Tech Trend Analysis**
+### **Tech Trend Analysis**(https://github.com/rjacaac211/Tech-Trend-Analysis)
 [![alt Tech Trend Analysis](assets/img/tech-trend-analysis.jpg)](https://github.com/rjacaac211/Tech-Trend-Analysis)
 [View Project](https://github.com/rjacaac211/Tech-Trend-Analysis)
 - Analyzes technology trends using survey data.
