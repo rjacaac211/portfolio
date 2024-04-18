@@ -29,8 +29,5 @@ _(Ongoing)_
 ### **Data Professional Survey with Power BI**
 _(Upcoming)_
 
-### **Sales Insights with Power BI**
-_(Upcoming)_
-
 ### **Fashion MNIST Image Classification**
 _(Upcoming)_
