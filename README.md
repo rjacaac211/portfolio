@@ -5,8 +5,8 @@ BS Computer Science | La Salle University (Aug 2021 - Present)
 
 ## Projects
 ### **Tech Trend Analysis**
-[![alt Tech Trend Analysis](assets/img/tech-trend-analysis.jpg)](https://github.com/rjacaac211/Tech-Trend-Analysis){:target="_blank" rel="noopener"}
-[View Project](https://github.com/rjacaac211/Tech-Trend-Analysis)
+[![alt Tech Trend Analysis](assets/img/tech-trend-analysis.jpg)](https://github.com/rjacaac211/Tech-Trend-Analysis)
+[View Project](https://github.com/rjacaac211/Tech-Trend-Analysis){:target="_blank" rel="noopener"}
 - Analyzes technology trends using survey data.
 - Explores current landscape of technology usage, preferences, and demographics.
 - Utilizes data exploration, wrangling, analysis, and visualization techniques.
