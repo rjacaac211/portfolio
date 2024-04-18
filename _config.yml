@@ -3,5 +3,3 @@ logo: assets/img/display_pic.jpg
 # description: Text Description
 # show_downloads: true
 theme: jekyll-theme-minimal
-kramdown:
-  input: Kramdown
