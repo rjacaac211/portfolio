@@ -23,3 +23,12 @@ BS Computer Science | La Salle University (Aug 2021 - Present)
 
 ### **SpaceX Falcon 9 Landing Prediction**
 _(Ongoing)_
+
+### **Data Professional Survey with Power BI**
+_(Upcoming)_
+
+### **Sales Insights with Power BI**
+_(Upcoming)_
+
+### **Fashion MNIST Image Classification**
+_(Upcoming)_
