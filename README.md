@@ -14,6 +14,7 @@ BS Computer Science | La Salle University (Aug 2021 - Present)
 - Includes detailed notebooks for each stage of the analysis and a comprehensive report summarizing the findings.
 
 ### **Chicago Data Analysis with SQL**
+[![alt Chicago Data Analysis](assets/img/chicago-data-analysis.jpg)](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
 [View Project](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
 - Analyzes various aspects of Chicago using SQL queries.
 - Leverages datasets covering crime, socioeconomic indicators, and public schools.
