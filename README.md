@@ -5,8 +5,8 @@ BS Computer Science | La Salle University (Aug 2021 - Present)
 
 ## Projects
 ### **Tech Trend Analysis**
-[![alt Tech Trend Analysis](assets/img/tech-trend-analysis.jpg)](https://github.com/rjacaac211/Tech-Trend-Analysis){:target="_blank"}
-[View Project](https://github.com/rjacaac211/Tech-Trend-Analysis){:target="_blank"}
+[![alt Tech Trend Analysis](<img src="assets/img/tech-trend-analysis.jpg" alt="Tech Trend Analysis">)](https://github.com/rjacaac211/Tech-Trend-Analysis){:target="_blank"}
+[View Project](https://github.com/rjacaac211/Tech-Trend-Analysis)
 - Analyzes technology trends using survey data.
 - Explores current landscape of technology usage, preferences, and demographics.
 - Utilizes data exploration, wrangling, analysis, and visualization techniques.
@@ -14,8 +14,8 @@ BS Computer Science | La Salle University (Aug 2021 - Present)
 - Includes detailed notebooks for each stage of the analysis and a comprehensive report summarizing the findings.
 
 ### **Chicago Data Analysis with SQL**
-[![alt Chicago Data Analysis](assets/img/chicago-data-analysis.jpg)](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL){:target="_blank"}
-[View Project](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL){:target="_blank"}
+[![alt Chicago Data Analysis](assets/img/chicago-data-analysis.jpg)](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
+[View Project](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
 - Analyzes various aspects of Chicago using SQL queries.
 - Leverages datasets covering crime, socioeconomic indicators, and public schools.
 - Applies data aggregation, filtering, subqueries, and advanced analytics.
