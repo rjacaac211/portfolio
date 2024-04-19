@@ -8,6 +8,10 @@ IBM Data Analyst Professional Certificate (Nov 25, 2023)
 
 [View Certificate](https://coursera.org/share/4bd141d4137f48ebf6dd781c67d4c432)
 
+IBM Data Science Professional Certificate (Apr 2023)
+
+[View Certificate](https://coursera.org/share/4bd141d4137f48ebf6dd781c67d4c432)
+
 ## Projects
 ### [**Tech Trend Analysis**](https://github.com/rjacaac211/Tech-Trend-Analysis)
 [![alt Tech Trend Analysis](assets/img/tech-trend-analysis.jpg)](https://github.com/rjacaac211/Tech-Trend-Analysis)
