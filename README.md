@@ -24,7 +24,7 @@ BS Computer Science | La Salle University (Aug 2021 - Present)
 - Provides valuable insights into Chicago's characteristics and issues using SQL analysis.
 
 ### [**SpaceX Falcon 9 Landing Prediction**](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
-[![alt SpaceX Falcon 9 Landing Prediction](assets/img/chicago-data-analysis.jpg)](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
+[![alt SpaceX Falcon 9 Landing Prediction](assets/img/falc9_land_pred.jpg)](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 [View Project](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 
 _(Ongoing)_
