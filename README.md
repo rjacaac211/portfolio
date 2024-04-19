@@ -7,7 +7,7 @@ BS Computer Science | La Salle University (Aug 2021 - Present)
 IBM Data Analyst Professional Certificate (Nov 25, 2023)\
 [View Certificate](https://coursera.org/share/4bd141d4137f48ebf6dd781c67d4c432)
 
-IBM Data Science Professional Certificate (Apr 28, 2023)\
+IBM Data Science Professional Certificate (Apr 28, 2024)\
 [View Certificate](https://coursera.org/share/4bd141d4137f48ebf6dd781c67d4c432)
 
 ## Projects
