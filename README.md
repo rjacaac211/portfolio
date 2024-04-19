@@ -14,7 +14,7 @@ BS Computer Science | La Salle University (Aug 2021 - Present)
 - Includes detailed notebooks for each stage of the analysis and a comprehensive report summarizing the findings.
 
 ### [**Chicago Data Analysis with SQL**](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
-[![alt Chicago Data Analysis](assets/img/chicago-data-analysis.jpg)](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
+[![alt Chicago Data Analysis with SQL](assets/img/chicago-data-analysis.jpg)](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
 [View Project](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
 - Analyzes various aspects of Chicago using SQL queries.
 - Leverages datasets covering crime, socioeconomic indicators, and public schools.
@@ -23,7 +23,9 @@ BS Computer Science | La Salle University (Aug 2021 - Present)
 - Emphasizes understanding dataset structure and defining clear analytical objectives.
 - Provides valuable insights into Chicago's characteristics and issues using SQL analysis.
 
-### **SpaceX Falcon 9 Landing Prediction**
+### [**SpaceX Falcon 9 Landing Prediction**](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
+[![alt SpaceX Falcon 9 Landing Prediction](assets/img/falc9_land_pred.jpg)](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
+[View Project](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 _(Ongoing)_
 
 ### **Data Professional Survey with Power BI**
