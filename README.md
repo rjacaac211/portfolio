@@ -36,8 +36,11 @@ IBM Data Science Professional Certificate (Apr 2023)\
 
 _(Ongoing)_
 
-### **Data Professional Survey with Power BI**
+### **Fashion MNIST Image Classification**
 _(Upcoming)_
 
-### **Fashion MNIST Image Classification**
+### **Data Professional Survey Dashboard in Power BI**
+_(Upcoming)_
+
+### **Coffee Dashboard in Excel**
 _(Upcoming)_
