@@ -39,8 +39,8 @@ _(Ongoing)_
 ### **Fashion MNIST Image Classification**
 _(Upcoming)_
 
-### **Data Professional Survey Dashboard in Power BI**
+### **Road Accident Dashboard in Excel**
 _(Upcoming)_
 
-### **Coffee Dashboard in Excel**
+### **Hospital Patient Waitlist Dashboard in Power BI**
 _(Upcoming)_
