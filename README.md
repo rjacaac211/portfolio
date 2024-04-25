@@ -31,7 +31,7 @@ IBM Data Science Professional Certificate (Apr 28, 2024)\
 - Provides valuable insights into Chicago's characteristics and issues using SQL analysis.
 
 ### [**SpaceX Falcon 9 Landing Prediction**](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
-[![alt SpaceX Falcon 9 Landing Prediction](assets/img/spxfalc9_landpred.jpg)](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
+[![alt SpaceX Falcon 9 Landing Prediction](assets/img/spxfalc9_landpred_cover.jpg)](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 [View Project](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 
 _(Ongoing)_
