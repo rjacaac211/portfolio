@@ -36,8 +36,8 @@ IBM Data Science Professional Certificate (Apr 28, 2024)\
 
 _(Ongoing)_
 
-### **Fashion MNIST Image Classification**
+### **Hospital Patient Waitlist Dashboard in Power BI**
 _(Upcoming)_
 
-### **Hospital Patient Waitlist Dashboard in Power BI**
+### **Fashion MNIST Image Classification**
 _(Upcoming)_
