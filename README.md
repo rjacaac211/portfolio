@@ -33,8 +33,11 @@ IBM Data Science Professional Certificate (Apr 28, 2024)\
 ### [**SpaceX Falcon 9 Landing Prediction**](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 [![alt SpaceX Falcon 9 Landing Prediction](assets/img/spxfalc9_landpred_cover.jpg)](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 [View Project](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
-
-_(Ongoing)_
+- Project aims to predict Falcon 9 first stage landings and identify influencing factors.
+- Utilizes data collection, EDA, interactive visualizations, and predictive modeling techniques.
+- Notebooks cover API data collection, web scraping, SQL-based EDA, and visualization with Folium.
+- Interactive dashboard with Plotly Dash provides insights into launch success rates and payload outcomes.
+- Predictive analysis selects the best-performing classification algorithm for landing predictions.
 
 ### **Hospital Patient Waitlist Dashboard in Power BI**
 _(Upcoming)_
