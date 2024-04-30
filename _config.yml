@@ -1,4 +1,7 @@
 title: RJ Aca-ac
 logo: assets/img/my_dp.png
-# description: Text Description
+description:
+  **Skills**
+  - Python
+  - SQL
 theme: jekyll-theme-minimal
