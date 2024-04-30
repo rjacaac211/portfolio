@@ -1,5 +1,4 @@
 title: RJ Aca-ac
 logo: assets/img/my_dp.png
 # description: Text Description
-# show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
