@@ -40,7 +40,7 @@ IBM Data Science Professional Certificate | Apr 27, 2024\
 - Predictive analysis selects the best-performing classification algorithm for landing predictions.
 
 ### **Fashion MNIST Image Classification**
-[alt Fashion MNIST Image Classification](assets/img/fashion-mnist.jpg)
+![alt Fashion MNIST Image Classification](assets/img/fashion-mnist.jpg)
 _(Ongoing)_
 
 ### **Hospital Patient Waitlist Dashboard in Power BI**
