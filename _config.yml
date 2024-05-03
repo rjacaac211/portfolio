@@ -1,5 +1,5 @@
 title: RJ Aca-ac
 logo: assets/img/my_dp.png
-description:
-<br><br>Hello! I am a third-year Computer Science student at La Salle University. I hold professional certificates in Data Analytics and Data Science from IBM, gaining hands-on experience in data manipulation, analysis, and machine learning, using tools like Python and SQL. My goal is to empower your business with impactful data solutions. Let us connect and explore how can we transform your data into your most valuable asset!
+description: |+
+  Hello! I am a third-year Computer Science student at La Salle University. I hold professional certificates in Data Analytics and Data Science from IBM, gaining hands-on experience in data manipulation, analysis, and machine learning, using tools like Python and SQL. My goal is to empower your business with impactful data solutions. Let us connect and explore how can we transform your data into your most valuable asset!
 theme: jekyll-theme-minimal
