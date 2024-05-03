@@ -1,4 +1,5 @@
 title: RJ Aca-ac
 logo: assets/img/my_dp.png
-# description: Text
+description:
+  Hello! I'm Jonathan Bittmann, a passionate third-year student pursuing a Bachelor of Science in Computer Science at La Salle University. With a strong foundation in computer science principles and a curiosity for emerging technologies, I'm committed to continuous learning and growth in the field. Alongside my academic journey, I've completed two professional certificates from IBM, specializing in Data Analytics and Data Science. These certifications have provided me with practical experience in data manipulation, analysis, and visualization, as well as proficiency in Python, SQL, and various analytical tools. I thrive on tackling complex problems and am excited about the possibilities of applying technology to create innovative solutions. Outside of academics, I enjoy exploring new programming languages and staying active in the tech community. I'm eager to bring my skills, enthusiasm, and dedication to a dynamic team where I can contribute and grow. Let's connect and explore how we can collaborate to achieve great things!
 theme: jekyll-theme-minimal
