@@ -39,9 +39,9 @@ IBM Data Science Professional Certificate | Apr 27, 2024\
 - Interactive dashboard with Plotly Dash provides insights into launch success rates and payload outcomes.
 - Predictive analysis selects the best-performing classification algorithm for landing predictions.
 
+### **Fashion MNIST Image Classification**
+[alt Fashion MNIST Image Classification](assets/img/fashion-mnist.jpg)
+_(Ongoing)_
+
 ### **Hospital Patient Waitlist Dashboard in Power BI**
 _(Upcoming)_
-
-### **Fashion MNIST Image Classification**
-![alt Fashion MNIST Image Classification](assets/img/fashion-mnist.jpg)
-_(Ongoing)_
