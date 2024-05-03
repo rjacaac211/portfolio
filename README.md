@@ -43,4 +43,5 @@ IBM Data Science Professional Certificate | Apr 27, 2024\
 _(Upcoming)_
 
 ### **Fashion MNIST Image Classification**
-_(Upcoming)_
+![alt Fashion MNIST Image Classification](assets/img/fashion-mnist.jpg)
+_(Ongoing)_
