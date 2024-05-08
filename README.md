@@ -41,7 +41,7 @@ IBM Data Science Professional Certificate | Apr 2024\
 
 ### **Fashion MNIST Image Classification**
 ![alt Fashion MNIST Image Classification](assets/img/fashion-mnist.jpg)
-_(Ongoing)_
+_(Upcoming)_
 
 ### **Hospital Patient Waitlist Dashboard in Power BI**
 _(Upcoming)_
