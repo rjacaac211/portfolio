@@ -48,6 +48,3 @@ IBM Data Science Professional Certificate | Apr 2024\
 - Trained the model using stochastic gradient descent (SGD) over multiple epochs.
 - Evaluated model performance on a validation set, achieving a classification accuracy of 92%.
 - TensorFlow Implementation (Ongoing)
-
-### **Hospital Patient Waitlist Dashboard in Power BI**
-_(Upcoming)_
