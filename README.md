@@ -47,4 +47,4 @@ IBM Data Science Professional Certificate | Apr 2024\
 - Developed a CNN model with two convolutional layers, max pooling, fully connected layers, and dropout.
 - Trained the model using stochastic gradient descent (SGD) over multiple epochs.
 - Evaluated model performance on a validation set, achieving a classification accuracy of 92%.
-- _TensorFlow Implementation (Ongoing)_
+- _TensorFlow Implementation (Upcoming)_
