@@ -40,8 +40,13 @@ IBM Data Science Professional Certificate | Apr 2024\
 - Predictive analysis selects the best-performing classification algorithm for landing predictions.
 
 ### **Fashion MNIST Image Classification**
-![alt Fashion MNIST Image Classification](assets/img/fashion-mnist.jpg)
-_(Ongoing)_
+[![alt Fashion MNIST Image Classification](assets/img/fashion-mnist.jpg)](https://github.com/rjacaac211/Fashion_MNIST_Image_Classification)
+[View Project](https://github.com/rjacaac211/Fashion_MNIST_Image_Classification)
+- Implemented image classification on the Fashion MNIST dataset using a CNN in PyTorch.
+- Fashion MNIST dataset comprises 70,000 images of fashion items categorized into 10 classes.
+- Developed a CNN model with two convolutional layers, max pooling, fully connected layers, and dropout.
+- Trained the model using stochastic gradient descent (SGD) over multiple epochs.
+- Evaluated model performance on a validation set, achieving a classification accuracy of 92%.
 
 ### **Hospital Patient Waitlist Dashboard in Power BI**
 _(Upcoming)_
