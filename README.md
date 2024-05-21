@@ -21,6 +21,15 @@ IBM Data Science Professional Certificate | Apr 2024\
 - Interactive dashboard with Plotly Dash provides insights into launch success rates and payload outcomes.
 - Predictive analysis selects the best-performing classification algorithm for landing predictions.
 
+### [**Fashion MNIST Image Classification**](https://github.com/rjacaac211/Fashion_MNIST_Image_Classification)
+[![alt Fashion MNIST Image Classification](assets/img/fashion-mnist.jpg)](https://github.com/rjacaac211/Fashion_MNIST_Image_Classification)
+[View Project](https://github.com/rjacaac211/Fashion_MNIST_Image_Classification)
+- Implemented image classification on the Fashion MNIST dataset using Convolutional Neural Networks (CNNs) in both PyTorch and TensorFlow.
+- The Fashion MNIST dataset consists of 70,000 images of fashion items categorized into 10 classes.
+- Developed CNN models with two convolutional layers, max pooling, fully connected layers, and dropout for regularization in both PyTorch and TensorFlow implementations.
+- Trained the models using stochastic gradient descent (SGD) over multiple epochs.
+- Evaluated model performance on a validation set, achieving classification accuracies of over 90%.
+
 ### [**Tech Trend Analysis**](https://github.com/rjacaac211/Tech-Trend-Analysis)
 [![alt Tech Trend Analysis](assets/img/tech-trend-analysis.jpg)](https://github.com/rjacaac211/Tech-Trend-Analysis)
 [View Project](https://github.com/rjacaac211/Tech-Trend-Analysis)
@@ -39,12 +48,3 @@ IBM Data Science Professional Certificate | Apr 2024\
 - Utilizes advanced SQL techniques such as joins, views, procedures, and transactions.
 - Emphasizes understanding dataset structure and defining clear analytical objectives.
 - Provides valuable insights into Chicago's characteristics and issues using SQL analysis.
-
-### [**Fashion MNIST Image Classification**](https://github.com/rjacaac211/Fashion_MNIST_Image_Classification)
-[![alt Fashion MNIST Image Classification](assets/img/fashion-mnist.jpg)](https://github.com/rjacaac211/Fashion_MNIST_Image_Classification)
-[View Project](https://github.com/rjacaac211/Fashion_MNIST_Image_Classification)
-- Implemented image classification on the Fashion MNIST dataset using Convolutional Neural Networks (CNNs) in both PyTorch and TensorFlow.
-- The Fashion MNIST dataset consists of 70,000 images of fashion items categorized into 10 classes.
-- Developed CNN models with two convolutional layers, max pooling, fully connected layers, and dropout for regularization in both PyTorch and TensorFlow implementations.
-- Trained the models using stochastic gradient descent (SGD) over multiple epochs.
-- Evaluated model performance on a validation set, achieving classification accuracies of over 90%.
