@@ -3,7 +3,7 @@
 ## Education
 BS Computer Science | La Salle University | Aug 2021 - Present
 
-## Certifications
+## Certificates
 IBM Data Analyst Professional Certificate | Nov 2023\
 [View Certificate](https://coursera.org/share/4bd141d4137f48ebf6dd781c67d4c432)
 
