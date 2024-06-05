@@ -48,3 +48,6 @@ IBM Data Science Professional Certificate | Apr 2024\
 - Utilizes advanced SQL techniques such as joins, views, procedures, and transactions.
 - Emphasizes understanding dataset structure and defining clear analytical objectives.
 - Provides valuable insights into Chicago's characteristics and issues using SQL analysis.
+
+### [**Data Professional Survey Dashboard with PowerBI**](https://github.com/rjacaac211/Data-Professional-Survey-with-PowerBI)
+
