@@ -50,4 +50,10 @@ IBM Data Science Professional Certificate | Apr 2024\
 - Provides valuable insights into Chicago's characteristics and issues using SQL analysis.
 
 ### [**Data Professional Survey Dashboard with PowerBI**](https://github.com/rjacaac211/Data-Professional-Survey-with-PowerBI)
-
+[![alt Data Professional Survey Dashboard with PowerBI](assets/img/data-professional-survey-dashboard.jpg)](https://github.com/rjacaac211/Data-Professional-Survey-with-PowerBI)
+[View Project](https://github.com/rjacaac211/Data-Professional-Survey-with-PowerBI)
+- Interactive PowerBI dashboard offering insights into demographics, preferences, and sentiments of data professionals.
+- Utilized PowerQuery for data preprocessing and DAX operations for calculating metrics like average salary.
+- Key visualizations include treemap for geographical distribution, bar chart for salary trends, and stacked column chart for programming language preferences.
+- Provides insights on perceived difficulty of entering the data field and happiness levels with work/life balance and salary.
+- Offers valuable insights for data professionals to inform strategic decisions and career trajectories.
