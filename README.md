@@ -11,7 +11,7 @@ IBM Data Science Professional Certificate | Apr 2024\
 [View Certificate](https://coursera.org/share/aa116bbde7d81fba96bf719d84b7797d)
 
 IBM AI Engineering Professional Certificate | Jun 2024\
-[View Certificate](https://coursera.org/share/f53dc0a9bc197d2778e33a892da57897)
+[View Certificate](https://coursera.org/share/4199b5a5c5a357f6393f0ff190a45ddd)
 
 ## Projects
 
