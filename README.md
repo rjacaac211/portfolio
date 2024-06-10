@@ -40,7 +40,7 @@ IBM AI Engineering Professional Certificate | Jun 2024\
 - Explores current landscape of technology usage, preferences, and demographics.
 - Utilizes data collection, exploration, wrangling, analysis, and visualization techniques.
 - Provides insights into key technology trends and their implications for decision-making.
-- Includes detailed notebooks for each stage of the analysis, a dashboard for easy interpretation, and a comprehensive report summarizing the findings.
+- Includes detailed notebooks for each stage of the analysis, a dashboard for visualizing the current and future technology usage and demographics, and a comprehensive report summarizing the findings.
 
 ### [**Chicago Data Analysis with SQL**](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
 [![alt Chicago Data Analysis with SQL](assets/img/chicago-data-analysis.jpg)](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
