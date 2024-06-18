@@ -13,6 +13,9 @@ IBM Data Science Professional Certificate | Apr 2024\
 IBM AI Engineering Professional Certificate | Jun 2024\
 [View Certificate](https://coursera.org/share/4199b5a5c5a357f6393f0ff190a45ddd)
 
+Data Engineering Foundations Specialization | Jun 2024\
+[View Certificate](https://coursera.org/share/d8b68c9d224f6ab4629fc17c2cf5061b)
+
 ## Projects
 
 ### [**SpaceX Falcon 9 Landing Prediction**](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
