@@ -34,7 +34,7 @@ Data Engineering Foundations Specialization | Jun 2024\
 - The Fashion MNIST dataset consists of 70,000 images of fashion items categorized into 10 classes.
 - Developed CNN models with two convolutional layers, max pooling, fully connected layers, and dropout for regularization in both PyTorch and TensorFlow implementations.
 - Trained the models using stochastic gradient descent (SGD) over multiple epochs.
-- Evaluated model performance on a validation set, achieving classification accuracies of over 90%.
+- Evaluated model performance on a validation set, achieving classification accuracies of over 90% for both models.
 
 ### [**Tech Trend Analysis**](https://github.com/rjacaac211/Tech-Trend-Analysis)
 [![alt Tech Trend Analysis](assets/img/tech-trend-analysis.jpg)](https://github.com/rjacaac211/Tech-Trend-Analysis)
