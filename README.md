@@ -19,7 +19,7 @@ Data Engineering Foundations Specialization | Jun 2024\
 ## Projects
 
 ### [**SpaceX Falcon 9 Landing Prediction**](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
-[![alt SpaceX Falcon 9 Landing Prediction](assets/img/spxfalc9_landpred_cover.jpg)](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
+[![alt SpaceX Falcon 9 Landing Prediction](assets/img/spxfalc9_landpred.jpg)](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 [View Project](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 - Project aims to predict Falcon 9 first stage landings and identify influencing factors.
 - Utilizes data collection, EDA, interactive visualizations, and predictive modeling techniques.
