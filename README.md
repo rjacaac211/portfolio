@@ -1,5 +1,11 @@
 # Computer Science Student
 
+## Contacts
+rj.acaac211@gmail.com
+https://www.linkedin.com/in/rj-r-aca-ac-7a070b29a/
+
++639207005579
+
 ## Education
 BS Computer Science | La Salle University | Aug 2021 - Present
 
