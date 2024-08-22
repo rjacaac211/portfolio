@@ -4,7 +4,7 @@
 rj.acaac211@gmail.com \
 +639207005579 \
 [LinkedIn](https://www.linkedin.com/in/rj-r-aca-ac-7a070b29a/) \
-[Github](https://github.com/rjacaac211)
+[GitHub](https://github.com/rjacaac211)
 
 
 ## Education
