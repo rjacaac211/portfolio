@@ -36,7 +36,7 @@ Data Engineering Foundations Specialization | Jun 2024\
 ### [**Fashion MNIST Image Classification**](https://github.com/rjacaac211/Fashion_MNIST_Image_Classification)
 [![alt Fashion MNIST Image Classification](assets/img/fashion-mnist.jpg)](https://github.com/rjacaac211/Fashion_MNIST_Image_Classification)
 [View Project](https://github.com/rjacaac211/Fashion_MNIST_Image_Classification)
-- Implemented **image classification** on the Fashion MNIST dataset using Convolutional Neural Networks (CNNs) in both **PyTorch** and **TensorFlow**.
+- Implemented **image classification** on the Fashion MNIST dataset using **Convolutional Neural Networks (CNNs)* in both **PyTorch** and **TensorFlow**.
 - The Fashion MNIST dataset consists of 70,000 images of fashion items categorized into 10 classes.
 - Developed **CNN** models with two convolutional layers, max pooling, fully connected layers, and dropout for regularization in both **PyTorch** and **TensorFlow** implementations.
 - Trained the models using stochastic gradient descent (SGD) over multiple epochs.
