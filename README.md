@@ -56,7 +56,7 @@ Data Engineering Foundations Specialization | Jun 2024\
 [View Project](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
 - Analyzes various aspects of Chicago using **SQL** queries.
 - Leverages datasets covering crime, socioeconomic indicators, and public schools.
-- Applies **data aggregation**, **filtering**, **subqueries**, and advanced **analytics**.
+- Applies **data aggregation**, **filtering**, **subqueries**, and **advanced analytics**.
 - Utilizes **advanced SQL** techniques such as **joins**, **views**, **procedures**, and **transactions**.
 - Emphasizes understanding dataset structure and defining clear analytical objectives.
 - Provides valuable insights into Chicago's characteristics and issues using **SQL analysis**.
