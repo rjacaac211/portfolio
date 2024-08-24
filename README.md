@@ -7,7 +7,7 @@ rj.acaac211@gmail.com | +639207005579 \
 
 
 ## Education
-BS Computer Science | La Salle University | Aug 2021 - Present
+BS Computer Science | La Salle University | 2021 - Present
 
 ## Certificates
 IBM Data Analyst Professional Certificate | Nov 2023\
