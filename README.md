@@ -19,10 +19,19 @@ IBM Data Science Professional Certificate | Apr 2024\
 IBM AI Engineering Professional Certificate | Jun 2024\
 [View Certificate](https://coursera.org/share/4199b5a5c5a357f6393f0ff190a45ddd)
 
-Data Engineering Foundations Specialization | Jun 2024\
-[View Certificate](https://coursera.org/share/d8b68c9d224f6ab4629fc17c2cf5061b)
+IBM Data Engineering Professional Certificate | Sep 2024\
+[View Certificate](https://coursera.org/share/5536170f1d713bf39386954039887cac)
 
 ## Projects
+
+### [**Real-Time Stock Market Data with Kafka and AWS**](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
+[![alt Real-Time Stock Market Data with Kafka and AWS](assets/img/stocks-kafka.jpg)](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
+[View Project](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
+- Built a scalable **real-time data pipeline** for stock market data ingestion using **Apache Kafka** and **AWS S3**.
+- Kafka producers stream stock data to a Kafka topic, while Kafka consumers process the data and write it to **AWS S3** as **JSON** files.
+- Utilized **Python** for **Kafka** producer and consumer logic, managing **Kafka** services on an **EC2** instance.
+- Integrated **AWS S3** for cloud storage and **AWS Glue / Athena** for data analysis.
+- Demonstrates proficiency in real-time data streaming, cloud storage integration, and Kafka-based architecture for scalable solutions.
 
 ### [**SpaceX Falcon 9 Landing Prediction**](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 [![alt SpaceX Falcon 9 Landing Prediction](assets/img/spxfalc9_landpred.jpg)](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
