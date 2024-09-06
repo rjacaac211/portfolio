@@ -10,16 +10,16 @@ rj.acaac211@gmail.com | +639207005579 \
 **BS Computer Science** | La Salle University | 2021 - Present
 
 ## Certificates
-**IBM Data Analyst** Professional Certificate | Nov 2023\
+**IBM Data Analyst Professional Certificate** | Nov 2023\
 [View Certificate](https://coursera.org/share/4bd141d4137f48ebf6dd781c67d4c432)
 
-**IBM Data Science** Professional Certificate | Apr 2024\
+**IBM Data Science Professional Certificate** | Apr 2024\
 [View Certificate](https://coursera.org/share/aa116bbde7d81fba96bf719d84b7797d)
 
-**IBM AI Engineering** Professional Certificate | Jun 2024\
+**IBM AI Engineering Professional Certificate** | Jun 2024\
 [View Certificate](https://coursera.org/share/4199b5a5c5a357f6393f0ff190a45ddd)
 
-**IBM Data Engineering** Professional Certificate | Sep 2024\
+**IBM Data Engineering Professional Certificate** | Sep 2024\
 [View Certificate](https://coursera.org/share/5536170f1d713bf39386954039887cac)
 
 ## Projects
