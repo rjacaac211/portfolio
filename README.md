@@ -24,6 +24,15 @@ rj.acaac211@gmail.com | +639207005579 \
 
 ## Projects
 
+### [**Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow**](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
+[![alt Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow](assets/img/user-kafka.jpg)](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
+[View Project](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
+- Developed a **real-time data streaming pipeline** utilizing **Apache Kafka** for data ingestion, **Apache Cassandra** for resilient data storage, and **Apache Airflow** for workflow orchestration.
+- Demonstrates the integration of dynamic data fetching from an **external API** through Kafka, and efficient data processing and persistence in Cassandra.
+- Utilizes Airflow to manage task scheduling and execution, ensuring data is processed and stored seamlessly.
+- Features full containerization using **Docker**, enhancing the scalability and fault tolerance of the pipeline.
+- The entire system's performance and health can be monitored through **Airflow's web interface** and **Kafka’s Control Center**.
+
 ### [**Real-Time Stock Market Data with Kafka and AWS**](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
 [![alt Real-Time Stock Market Data with Kafka and AWS](assets/img/stocks-kafka.jpg)](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
 [View Project](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
