@@ -24,14 +24,6 @@ rj.acaac211@gmail.com | +639207005579 \
 
 ## Projects
 
-### [**Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow**](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
-[![alt Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow](assets/img/user-kafka.jpg)](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
-[View Project](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
-- Developed a **real-time data streaming pipeline** utilizing **Apache Kafka** for data ingestion, **Apache Cassandra** for resilient data storage, and **Apache Airflow** for workflow orchestration.
-- Utilizes **Airflow** to manage task scheduling and execution, ensuring data is processed and stored seamlessly.
-- Features full containerization using **Docker**, enhancing the scalability and fault tolerance of the pipeline.
-- The entire system's performance and health can be monitored through **Airflow's web interface** and **Kafka’s Control Center**.
-
 ### [**Real-Time Stock Market Data with Kafka and AWS**](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
 [![alt Real-Time Stock Market Data with Kafka and AWS](assets/img/stocks-kafka.jpg)](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
 [View Project](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
@@ -40,6 +32,14 @@ rj.acaac211@gmail.com | +639207005579 \
 - Utilized **Python** for **Kafka** producer and consumer logic, managing **Kafka** services on an **EC2** instance.
 - Integrated **AWS S3** for cloud storage and **AWS Glue / Athena** for data analysis.
 - Demonstrates proficiency in real-time data streaming, cloud storage integration, and Kafka-based architecture for scalable solutions.
+
+### [**Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow**](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
+[![alt Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow](assets/img/user-kafka.jpg)](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
+[View Project](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
+- Developed a **real-time data streaming pipeline** utilizing **Apache Kafka** for data ingestion, **Apache Cassandra** for resilient data storage, and **Apache Airflow** for workflow orchestration.
+- Utilizes **Airflow** to manage task scheduling and execution, ensuring data is processed and stored seamlessly.
+- Features full containerization using **Docker**, enhancing the scalability and fault tolerance of the pipeline.
+- The entire system's performance and health can be monitored through **Airflow's web interface** and **Kafka’s Control Center**.
 
 ### [**SpaceX Falcon 9 Landing Prediction**](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 [![alt SpaceX Falcon 9 Landing Prediction](assets/img/spxfalc9_landpred.jpg)](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
