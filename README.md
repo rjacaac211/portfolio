@@ -31,7 +31,6 @@ rj.acaac211@gmail.com | +639207005579 \
 - Kafka producers stream stock data to a Kafka topic, while Kafka consumers process the data and write it to **AWS S3** as **JSON** files.
 - Utilized **Python** for **Kafka** producer and consumer logic, managing **Kafka** services on an **EC2** instance.
 - Integrated **AWS S3** for cloud storage and **AWS Glue / Athena** for data analysis.
-- Demonstrates proficiency in real-time data streaming, cloud storage integration, and Kafka-based architecture for scalable solutions.
 
 ### [**Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow**](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
 [![alt Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow](assets/img/user-kafka.jpg)](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
