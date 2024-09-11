@@ -40,14 +40,6 @@ rj.acaac211@gmail.com | +639207005579 \
 - Utilized **Python** for **Kafka** producer and consumer logic, managing **Kafka** services on an **EC2** instance.
 - Integrated **AWS S3** for cloud storage and **AWS Glue / Athena** for data analysis.
 
-### [**Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow**](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
-[![alt Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow](assets/img/user-kafka.jpg)](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
-[View Project](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
-- Developed a **real-time data streaming pipeline** utilizing **Apache Kafka** for data ingestion, **Apache Cassandra** for resilient data storage, and **Apache Airflow** for workflow orchestration.
-- Utilizes **Airflow** to manage task scheduling and execution, ensuring data is processed and stored seamlessly.
-- Features full containerization using **Docker**, enhancing the scalability and fault tolerance of the pipeline.
-- The entire system's performance and health can be monitored through **Airflow's web interface** and **Kafka’s Control Center**.
-
 ### [**SpaceX Falcon 9 Landing Prediction**](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 [![alt SpaceX Falcon 9 Landing Prediction](assets/img/spxfalc9_landpred.jpg)](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 [View Project](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
@@ -75,6 +67,14 @@ rj.acaac211@gmail.com | +639207005579 \
 - Provides insights into key technology trends and their implications for decision-making.
 - Includes detailed notebooks for each stage of the analysis, a **dashboard** for visualizing the current and future technology usage and demographics, and a **comprehensive report** summarizing the findings.
 
+### [**Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow**](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
+[![alt Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow](assets/img/user-kafka.jpg)](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
+[View Project](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
+- Developed a **real-time data streaming pipeline** utilizing **Apache Kafka** for data ingestion, **Apache Cassandra** for resilient data storage, and **Apache Airflow** for workflow orchestration.
+- Utilizes **Airflow** to manage task scheduling and execution, ensuring data is processed and stored seamlessly.
+- Features full containerization using **Docker**, enhancing the scalability and fault tolerance of the pipeline.
+- The entire system's performance and health can be monitored through **Airflow's web interface** and **Kafka’s Control Center**.
+
 ### [**Chicago Data Analysis with SQL**](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
 [![alt Chicago Data Analysis with SQL](assets/img/chicago-data-analysis.jpg)](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
 [View Project](https://github.com/rjacaac211/Chicago-Data-Analysis-with-SQL)
@@ -84,12 +84,3 @@ rj.acaac211@gmail.com | +639207005579 \
 - Utilizes **advanced SQL** techniques such as **joins**, **views**, **procedures**, and **transactions**.
 - Emphasizes understanding dataset structure and defining clear analytical objectives.
 - Provides valuable insights into Chicago's characteristics and issues using **SQL analysis**.
-
-### [**Data Professional Survey Dashboard with PowerBI**](https://github.com/rjacaac211/Data-Professional-Survey-with-PowerBI)
-[![alt Data Professional Survey Dashboard with PowerBI](assets/img/data-professional-survey-dashboard.jpg)](https://github.com/rjacaac211/Data-Professional-Survey-with-PowerBI)
-[View Project](https://github.com/rjacaac211/Data-Professional-Survey-with-PowerBI)
-- **Interactive PowerBI dashboard** offering insights into demographics, preferences, and sentiments of data professionals.
-- Utilized **PowerQuery** for data preprocessing and **DAX** operations for calculating metrics like average salary.
-- Key visualizations include **treemap** for geographical distribution, **bar chart** for salary trends, and **stacked column chart** for programming language preferences.
-- Provides insights on perceived difficulty of entering the data field and happiness levels with work/life balance and salary.
-- Offers valuable insights for data professionals to inform strategic decisions and career trajectories.
