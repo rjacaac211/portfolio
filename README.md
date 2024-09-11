@@ -30,7 +30,7 @@ rj.acaac211@gmail.com | +639207005579 \
 - **Amazon S3** stores raw and processed data; **AWS Glue** handles schema inference and data transformation.
 - **Apache Airflow** orchestrates ETL tasks from **S3** to **Amazon Redshift** and monitors Glue job execution.
 - **Amazon Athena** enables querying of raw data, and **Amazon Redshift** serves as the data warehouse and data source for **Power BI**.
-- **Power BI** provides interactive dashboards for customer churn insights.
+- **Power BI** provides interactive dashboard for customer churn insights.
 
 ### [**Real-Time Stock Market Data with Kafka and AWS**](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
 [![alt Real-Time Stock Market Data with Kafka and AWS](assets/img/stocks-kafka.jpg)](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
