@@ -5,7 +5,6 @@ rj.acaac211@gmail.com | +639207005579 \
 [LinkedIn](https://www.linkedin.com/in/rj-r-aca-ac-7a070b29a/) \
 [GitHub](https://github.com/rjacaac211)
 
-
 ## Education
 **BS Computer Science** | La Salle University | 2021 - Present
 
@@ -24,6 +23,15 @@ rj.acaac211@gmail.com | +639207005579 \
 
 ## Projects
 
+### [**Customer Churn ETL Pipeline with AWS, Apache Airflow, and PowerBI**](https://github.com/rjacaac211/Customer-Churn-ETL-Pipeline-with-AWS-Airflow-and-PowerBI)
+[![alt Real-Time Stock Market Data with Kafka and AWS](assets/img/churn-aws.jpg)](https://github.com/rjacaac211/Customer-Churn-ETL-Pipeline-with-AWS-Airflow-and-PowerBI)
+[View Project](https://github.com/rjacaac211/Customer-Churn-ETL-Pipeline-with-AWS-Airflow-and-PowerBI)
+- Built a **customer churn ETL pipeline** using **AWS**, **Apache Airflow**, and **Power BI**.
+- **Amazon S3** stores raw and processed data; **AWS Glue** handles schema inference and data transformation.
+- **Apache Airflow** orchestrates ETL tasks from **S3** to **Amazon Redshift** and monitors Glue job execution.
+- **Amazon Athena** enables querying of raw data, and **Amazon Redshift** serves as the data warehouse and data source for **Power BI**.
+- **Power BI** provides interactive dashboards for customer churn insights.
+
 ### [**Real-Time Stock Market Data with Kafka and AWS**](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
 [![alt Real-Time Stock Market Data with Kafka and AWS](assets/img/stocks-kafka.jpg)](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
 [View Project](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
@@ -31,7 +39,14 @@ rj.acaac211@gmail.com | +639207005579 \
 - Kafka producers stream stock data to a Kafka topic, while Kafka consumers process the data and write it to **AWS S3** as **JSON** files.
 - Utilized **Python** for **Kafka** producer and consumer logic, managing **Kafka** services on an **EC2** instance.
 - Integrated **AWS S3** for cloud storage and **AWS Glue / Athena** for data analysis.
-- Demonstrates proficiency in real-time data streaming, cloud storage integration, and Kafka-based architecture for scalable solutions.
+
+### [**Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow**](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
+[![alt Real-Time Data Streaming with Apache Kafka, Cassandra, and Airflow](assets/img/user-kafka.jpg)](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
+[View Project](https://github.com/rjacaac211/Real-Time-User-Data-with-Airflow-Kafka-Cassandra)
+- Developed a **real-time data streaming pipeline** utilizing **Apache Kafka** for data ingestion, **Apache Cassandra** for resilient data storage, and **Apache Airflow** for workflow orchestration.
+- Utilizes **Airflow** to manage task scheduling and execution, ensuring data is processed and stored seamlessly.
+- Features full containerization using **Docker**, enhancing the scalability and fault tolerance of the pipeline.
+- The entire system's performance and health can be monitored through **Airflow's web interface** and **Kafka’s Control Center**.
 
 ### [**SpaceX Falcon 9 Landing Prediction**](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
 [![alt SpaceX Falcon 9 Landing Prediction](assets/img/spxfalc9_landpred.jpg)](https://github.com/rjacaac211/SpaceX-Falcon-9-Landing-Prediction)
