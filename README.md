@@ -5,7 +5,6 @@ rj.acaac211@gmail.com | +639207005579 \
 [LinkedIn](https://www.linkedin.com/in/rj-r-aca-ac-7a070b29a/) \
 [GitHub](https://github.com/rjacaac211)
 
-
 ## Education
 **BS Computer Science** | La Salle University | 2021 - Present
 
@@ -23,6 +22,15 @@ rj.acaac211@gmail.com | +639207005579 \
 [View Certificate](https://coursera.org/share/5536170f1d713bf39386954039887cac)
 
 ## Projects
+
+### [**Customer Churn ETL Pipeline with AWS, Apache Airflow, and PowerBI**](https://github.com/rjacaac211/Customer-Churn-ETL-Pipeline-with-AWS-Airflow-and-PowerBI)
+[![alt Real-Time Stock Market Data with Kafka and AWS](assets/img/churn-aws.jpg)](https://github.com/rjacaac211/Customer-Churn-ETL-Pipeline-with-AWS-Airflow-and-PowerBI)
+[View Project](https://github.com/rjacaac211/Customer-Churn-ETL-Pipeline-with-AWS-Airflow-and-PowerBI)
+- Built a **customer churn ETL pipeline** using **AWS**, **Apache Airflow**, and **Power BI**.
+- **Amazon S3** stores raw and processed data; **AWS Glue** handles schema inference and data transformation.
+- **Apache Airflow** orchestrates ETL tasks from **S3** to **Amazon Redshift** and monitors Glue job execution.
+- **Amazon Athena** enables querying of raw data, and **Amazon Redshift** serves as the data warehouse and data source for **Power BI**.
+- **Power BI** provides interactive dashboards for customer churn insights.
 
 ### [**Real-Time Stock Market Data with Kafka and AWS**](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
 [![alt Real-Time Stock Market Data with Kafka and AWS](assets/img/stocks-kafka.jpg)](https://github.com/rjacaac211/Real-Time-Stock-Market-Data-with-Kafka-and-AWS)
