@@ -84,3 +84,12 @@ rj.acaac211@gmail.com | +639207005579 \
 - Utilizes **advanced SQL** techniques such as **joins**, **views**, **procedures**, and **transactions**.
 - Emphasizes understanding dataset structure and defining clear analytical objectives.
 - Provides valuable insights into Chicago's characteristics and issues using **SQL analysis**.
+
+### [**Car Sales Data Analysis with Excel and Cognos Analytics**](https://github.com/rjacaac211/Car-Sales-Data-Analysis-with-Excel-and-Cognos-Analytics)
+[![alt Car Sales Data Analysis with Excel and Cognos Analytics](assets/img/car-sales-analysis.jpg)](https://github.com/rjacaac211/Car-Sales-Data-Analysis-with-Excel-and-Cognos-Analytics)
+[View Project](https://github.com/rjacaac211/Car-Sales-Data-Analysis-with-Excel-and-Cognos-Analytics)
+- Analyzed car sales data to derive insights on dealership performance, model profitability, and sales trends.
+- Built **pivot tables** and **visualizations** in **Excel** to explore quantity sold, profit by dealer, and seasonal trends.
+- Developed a **Cognos Analytics Dashboard** to visualize sales, profit, recalls, and customer sentiment.
+- Identified top-performing dealers and models, with Dealer 1288 and the Labrador model leading in profitability.
+- Provided insights into customer sentiment, revealing high levels of positive feedback despite product recalls.
