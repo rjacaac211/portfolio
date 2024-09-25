@@ -85,6 +85,13 @@ rj.acaac211@gmail.com | +639207005579 \
 - Emphasizes understanding dataset structure and defining clear analytical objectives.
 - Provides valuable insights into Chicago's characteristics and issues using **SQL analysis**.
 
+### [**CRM Sales Dashboard with Google Sheets**](https://github.com/rjacaac211/CRM-Sales-Dashboard-with-Google-Sheets)
+[![alt CRM Sales Dashboard with Google Sheets](assets/img/crm-sales-dashboard.jpg)](https://github.com/rjacaac211/CRM-Sales-Dashboard-with-Google-Sheets)
+[View Project](https://github.com/rjacaac211/CRM-Sales-Dashboard-with-Google-Sheets)
+- **Data Preparation:** Conducted data QA and profiling on the sales pipeline dataset. Joined the sales team data to add information such as managers and regional offices for each sales agent.
+- **Pivot Table Analysis:** Created **pivot tables** to analyze sales trends by quarter, track won and lost opportunities, and assess sales agent performance, ranking them by opportunities won.
+- **Dynamic Dashboard:** Developed an **interactive dashboard** using **charts**, including a **scorecard**, **pie chart**, and **bar chart**, with **filters** for regional offices and managers. The dashboard allows users to track quarterly performance and agent success.
+
 ### [**Car Sales Data Analysis with Excel and Cognos Analytics**](https://github.com/rjacaac211/Car-Sales-Data-Analysis-with-Excel-and-Cognos-Analytics)
 [![alt Car Sales Data Analysis with Excel and Cognos Analytics](assets/img/car-sales-analysis.jpg)](https://github.com/rjacaac211/Car-Sales-Data-Analysis-with-Excel-and-Cognos-Analytics)
 [View Project](https://github.com/rjacaac211/Car-Sales-Data-Analysis-with-Excel-and-Cognos-Analytics)
