@@ -22,7 +22,7 @@ rj.acaac211@gmail.com | +639207005579 \
 [View Certificate](https://coursera.org/share/5536170f1d713bf39386954039887cac)
 
 ## Work Experience
-### AI Prompt Evaluator | Outlier | Oct 2024 - Present
+### **AI Prompt Evaluator** | Outlier | Oct 2024 - Present
 - Evaluated and analyzed AI-generated prompts and responses to ensure alignment with user intent and expectations.
 - Conducted thorough assessments of truthfulness, instruction following, and overall quality of AI outputs.
 - Provided constructive feedback on AI responses based on detailed evaluations, contributing to ongoing model refinement.
