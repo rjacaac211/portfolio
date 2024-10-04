@@ -21,6 +21,13 @@ rj.acaac211@gmail.com | +639207005579 \
 **IBM Data Engineering Professional Certificate** | Sep 2024\
 [View Certificate](https://coursera.org/share/5536170f1d713bf39386954039887cac)
 
+## Work Experience
+### AI Prompt Evaluator | Outlier | Oct 2024 - Present
+- Evaluated and analyzed AI-generated prompts and responses to ensure alignment with user intent and expectations.
+- Conducted thorough assessments of truthfulness, instruction following, and overall quality of AI outputs.
+- Provided constructive feedback on AI responses based on detailed evaluations, contributing to ongoing model refinement.
+- Engaged in research and fact-checking to validate claims made in AI responses, ensuring high-quality outputs.
+
 ## Projects
 
 ### [**Customer Churn ETL Pipeline with AWS, Apache Airflow, and PowerBI**](https://github.com/rjacaac211/Customer-Churn-ETL-Pipeline-with-AWS-Airflow-and-PowerBI)
