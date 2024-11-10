@@ -20,8 +20,8 @@ rj.acaac211@gmail.com | +639207005579 \
 ### **Junior Machine Learning Engineer | Task Lead**
 Omdena Ibadan Chapter | Contract | Oct 2024 - Present
 - Collaborate with a global, diverse team on an innovative AI-powered traffic management system, 
-leveraging computer vision to improve traffic flow and reduce congestion in Nigerian cities. 
-- Spearheaded the development of a real-time AI computer vision model for vehicle detection and directional 
+leveraging **computer vision** to improve traffic flow and reduce congestion in Nigerian cities. 
+- Spearheaded the development of a real-time AI computer vision model for **vehicle detection** and directional 
 counting, improving traffic density assessment accuracy and enabling more effective data-driven traffic control 
 solutions. 
 - Integrated computer vision model insights into traffic control algorithms, providing critical data that supports 
