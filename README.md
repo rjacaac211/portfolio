@@ -12,17 +12,34 @@ rj.acaac211@gmail.com | +639207005579 \
 **IBM Data Analyst** | Nov 2023 | [View Certificate](https://coursera.org/share/4bd141d4137f48ebf6dd781c67d4c432)\
 **IBM Data Science** | Apr 2024 | [View Certificate](https://coursera.org/share/aa116bbde7d81fba96bf719d84b7797d)\
 **IBM AI Engineering** | Jun 2024 | [View Certificate](https://coursera.org/share/4199b5a5c5a357f6393f0ff190a45ddd)\
-**IBM Data Engineering** | Sep 2024 | [View Certificate](https://coursera.org/share/5536170f1d713bf39386954039887cac)
+**IBM Data Engineering** | Sep 2024 | [View Certificate](https://coursera.org/share/5536170f1d713bf39386954039887cac)\
+**DataCamp Data Scientist Associate** | Nov 2024 | [View Certificate](http://main-app.dc-general-platform/certificate/DSA0019457584867)
 
-## Work Experience
+## Work Experience+
+
+### **Junior Machine Learning Engineer | Task Lead**
+Omdena Ibadan Chapter | Contract | Oct 2024 - Present
+- Collaborate with a global, diverse team on an innovative AI-powered traffic management system, 
+leveraging computer vision to improve traffic flow and reduce congestion in Nigerian cities. 
+- Spearheaded the development of a real-time AI computer vision model for vehicle detection and directional 
+counting, improving traffic density assessment accuracy and enabling more effective data-driven traffic control 
+solutions. 
+- Integrated computer vision model insights into traffic control algorithms, providing critical data that supports 
+real-world traffic optimization initiatives, potentially improving road safety and reducing travel time. 
+
 ### **AI Prompt Evaluator**
-Outlier | Freelance | Oct 2024 - Present
+Outlier | Freelance | Sep 2024 - Present
 - Evaluated and analyzed AI-generated prompts and responses to ensure alignment with user intent and expectations.
 - Conducted thorough assessments of truthfulness, instruction following, and overall quality of AI outputs.
 - Provided constructive feedback on AI responses based on detailed evaluations, contributing to ongoing model refinement.
 - Engaged in research and fact-checking to validate claims made in AI responses, ensuring high-quality outputs.
 
 ## Projects
+
+### [**Amazon Alexa Reviews Sentiment Analysis App**](https://github.com/rjacaac211/Amazon-Alexa-Reviews-Sentiment-Analysis-App)
+- Built a **Flask app** with 94% accuracy for real-time **sentiment analysis** on Amazon Alexa reviews.
+- Using **Python**, processed 3,000+ reviews using **NLP** techniques, uncovering key insights into customer feedback trends.
+- Provided actionable insights for enhancing customer satisfaction, driving data-based decision-making.
 
 ### [**Customer Churn ETL Pipeline with AWS, Apache Airflow, and PowerBI**](https://github.com/rjacaac211/Customer-Churn-ETL-Pipeline-with-AWS-Airflow-and-PowerBI)
 [![alt Real-Time Stock Market Data with Kafka and AWS](assets/img/churn-aws.jpg)](https://github.com/rjacaac211/Customer-Churn-ETL-Pipeline-with-AWS-Airflow-and-PowerBI)
