@@ -15,7 +15,7 @@ rj.acaac211@gmail.com | +639207005579 \
 **IBM Data Engineering** | Sep 2024 | [View Certificate](https://coursera.org/share/5536170f1d713bf39386954039887cac)\
 **DataCamp Data Scientist Associate** | Nov 2024 | [View Certificate](http://main-app.dc-general-platform/certificate/DSA0019457584867)
 
-## Work Experience+
+## Work Experience
 
 ### **Junior Machine Learning Engineer | Task Lead**
 Omdena Ibadan Chapter | Contract | Oct 2024 - Present
