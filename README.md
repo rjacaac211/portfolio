@@ -13,7 +13,7 @@ rj.acaac211@gmail.com | +639207005579 \
 **IBM Data Science** | Apr 2024 | [View Certificate](https://coursera.org/share/aa116bbde7d81fba96bf719d84b7797d)\
 **IBM AI Engineering** | Jun 2024 | [View Certificate](https://coursera.org/share/4199b5a5c5a357f6393f0ff190a45ddd)\
 **IBM Data Engineering** | Sep 2024 | [View Certificate](https://coursera.org/share/5536170f1d713bf39386954039887cac)\
-**DataCamp Data Scientist Associate** | Nov 2024 | [View Certificate](http://main-app.dc-general-platform/certificate/DSA0019457584867)
+**DataCamp Data Scientist Associate** | Nov 2024 | [View Certificate](https://www.datacamp.com/certificate/DSA0019457584867)
 
 ## Work Experience
 
