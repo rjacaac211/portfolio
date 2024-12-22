@@ -118,3 +118,7 @@ Outlier | Freelance | Sep 2024 - Present
 - Developed a **Cognos Analytics Dashboard** to visualize sales, profit, recalls, and customer sentiment.
 - Identified top-performing dealers and models, with Dealer 1288 and the Labrador model leading in profitability.
 - Provided insights into customer sentiment, revealing high levels of positive feedback despite product recalls.
+
+
+## ADDED SOME UPDATES
+Updares sdfsfaskflksflk
